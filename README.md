@@ -15,7 +15,7 @@
 
 🌎 I'm from Mumbai ,Maharashtra.
 🤝 I'm open to collaborating on projects.
-✉️ you can contact me at khushiambastha16@gmail.com
+
 
 
 
