@@ -1,8 +1,8 @@
 # Hi 👋 I'm Khushi Ambastha
 
--🎓 Persuing Mathematics and computing at RGIPT
--💻 Interested in Web Development and Software Development  
--📚 Currently learning Data Structures and Algorithms (DSA)
+🎓 Persuing Mathematics and computing at RGIPT
+💻 Interested in Web Development and Software Development  
+📚 Currently learning Data Structures and Algorithms (DSA)
 
 🚀 Skills:
 - HTML
@@ -13,8 +13,8 @@
 - Git & GitHub
 - Java
 
--🌎 I'm from Mumbai ,Maharashtra.
--🤝 I'm open to collaborating on projects.
+🌎 I'm from Mumbai ,Maharashtra.
+🤝 I'm open to collaborating on projects.
 
 
 
