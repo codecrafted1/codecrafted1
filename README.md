@@ -17,10 +17,10 @@
 🤝 I'm open to collaborating on projects.
 
 
-//## 📊 Khushi's GitHub Stats
+## 📊 Khushi's GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecrafted1&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-//## 💻 Top Languages
+## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafted1&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
