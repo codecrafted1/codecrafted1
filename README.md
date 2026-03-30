@@ -18,12 +18,10 @@
 
 
 ## 📊 Khushi's GitHub Stats
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecrafted1&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecrafted1&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafted1&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafted1&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=codecrafted1&theme=tokyonight)
