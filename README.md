@@ -17,6 +17,14 @@
 🤝 I'm open to collaborating on projects.
 
 
+## 📊 GitHub Stats
 
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?codecrafed1=codecrafed1&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?codecrafed1=codecrafed1&layout=compact)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codecrafed1)
 
   
