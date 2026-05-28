@@ -1,7 +1,7 @@
 # Hi 👋 I'm Khushi Ambastha
 
 # 💫 About Me:
-Persuing Mathematics and computing at RGIPT<br>FULL STACK DEVELOPER<br>Currently learning Data Structures and Algorithms (DSA)
+FULL STACK DEVELOPER<br>Persuing Mathematics and computing at RGIPT<br>Currently learning Data Structures and Algorithms (DSA)
 
 
 # 💻 Tech Stack:
