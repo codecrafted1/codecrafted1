@@ -9,7 +9,7 @@
 - 💻 Exploring Full Stack Development, Open Source, and Machine Learning
 - 🤝 Open to internships, open-source collaborations, and exciting projects
 - 📫 Reach me at: khushiambastha16@gmail.com
-
+- 🌐 Connect With Me: www.linkedin.com/in/khushi-ambastha-08712937b
 ---
 
 ## 💻 Tech Stack
@@ -43,10 +43,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[LinkedIn] - www.linkedin.com/in/khushi-ambastha-08712937b
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=codecrafted1&color=blue)
+
+![GitHub Snake](https://raw.githubusercontent.com/codecrafted1/codecrafted1/output/github-contribution-grid-snake.svg)
