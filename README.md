@@ -178,39 +178,51 @@ IntelliJ IDEA
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codecrafted1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=codecrafted1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafted1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafted1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafted1&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=codecrafted1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=codecrafted1&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codecrafted1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 🐍 Snake Contribution Graph
+## 🐍 Snake Contribution Graph
 
 <div align="center">
 
@@ -230,10 +242,6 @@ IntelliJ IDEA
 </picture>
 
 </div>
-
----
-
-<div align="center">
 
 ### 🚀 Keep Building • Keep Learning • Keep Contributing
 
