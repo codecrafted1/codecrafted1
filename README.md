@@ -63,6 +63,11 @@ Java
 C
 </td>
 
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" width="40"/><br>
+C++
+</td>
+
 </tr>
 </table>
 
